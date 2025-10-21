@@ -57,7 +57,7 @@ public class BFS {
             g.addEdge(7, 8);
             g.addEdge(8, 5);
 
-            g.BFS(2);
+            g.BFS(6);
         }
     }
 

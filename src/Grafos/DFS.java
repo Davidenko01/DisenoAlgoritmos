@@ -60,6 +60,6 @@ public class DFS {
         g.addEdge(7, 8);
         g.addEdge(8, 5);
 
-        g.DFS(2);
+        g.DFS(6);
     }
 }
